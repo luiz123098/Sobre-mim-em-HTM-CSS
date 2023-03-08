@@ -2,8 +2,13 @@ html, body {
     height: 100%;
 }
 
+.foto-neto{
+    height: 1000px;
+    width: 100px;
+}
+
 body {
-    padding: 8%;
+    padding: 13%;
     margin: 0 auto !important;
     background-color: black;
     color: white;
