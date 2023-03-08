@@ -3,8 +3,10 @@ html, body {
 }
 
 .foto-neto{
-    height: 1000px;
-    width: 100px;
+    height: 350px;
+    width: 350px;
+    position: relative;
+    top: -30px;
 }
 
 body {
