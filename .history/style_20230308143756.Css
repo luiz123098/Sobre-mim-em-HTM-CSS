@@ -1,10 +1,4 @@
-html, body {
-    height: 100%;
-}
-
-body {
-    padding: 8%;
-    margin: 0 auto !important;
+body{
     background-color: black;
     color: white;
     text-align: center;
@@ -59,6 +53,4 @@ button {
         cursor: pointer;
         transition: .3s;
         border-radius: 5px;
-        background-color: #22D4FD;
-        color: black;
 }

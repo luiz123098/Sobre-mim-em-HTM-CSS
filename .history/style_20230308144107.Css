@@ -3,11 +3,14 @@ html, body {
 }
 
 body {
-    padding: 8%;
+    max-width: 400px;
+    font-family: gotham, arial, helvetica, sans-serif;
+    font-size: 18px;
+    padding: 1000;
     margin: 0 auto !important;
     background-color: black;
     color: white;
-    text-align: center;
+    text-align: justify;
 }
 
 .biografia{

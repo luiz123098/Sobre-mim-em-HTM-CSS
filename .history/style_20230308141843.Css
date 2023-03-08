@@ -1,17 +1,10 @@
-html, body {
-    height: 100%;
-}
-
-body {
-    padding: 8%;
-    margin: 0 auto !important;
+body{
     background-color: black;
     color: white;
     text-align: center;
 }
 
 .biografia{
-    font-size: 70%;
     text-align: center;
 }
 
@@ -35,8 +28,7 @@ div.parte_esquerda{
     width: 615px;
     left: 357px;
     top: 278px;
-    border-color: #22D4FD;
-    border-radius: 500px;
+    border-radius: [object Object]px;
 }
 
 .flex-container {
@@ -44,21 +36,9 @@ div.parte_esquerda{
     /*isso centraliza o texto horizontalmente*/
     justify-content: center;
     /*isso centraliza o texto verticalmente*/
-    align-items: center;
+    align-items: flex-end baseline;
 
-    border-radius: 500px;
-    height: auto;
+    height: 200px;
     color: #fff;
     font-size: 1.2rem;
-}
-
-button {
-        border: none;
-        padding: 10px;
-        text-decoration: none;
-        cursor: pointer;
-        transition: .3s;
-        border-radius: 5px;
-        background-color: #22D4FD;
-        color: black;
 }

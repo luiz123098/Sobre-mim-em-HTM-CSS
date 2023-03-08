@@ -1,18 +1,16 @@
-html, body {
-    height: 100%;
-}
-
-body {
-    padding: 8%;
-    margin: 0 auto !important;
+body{
     background-color: black;
     color: white;
     text-align: center;
 }
 
 .biografia{
-    font-size: 70%;
-    text-align: center;
+    font-size: 100%;
+    text-align: left;
+}
+
+.intro{
+    text-align: left;
 }
 
 .texto_em_destaque{
@@ -50,15 +48,4 @@ div.parte_esquerda{
     height: auto;
     color: #fff;
     font-size: 1.2rem;
-}
-
-button {
-        border: none;
-        padding: 10px;
-        text-decoration: none;
-        cursor: pointer;
-        transition: .3s;
-        border-radius: 5px;
-        background-color: #22D4FD;
-        color: black;
 }

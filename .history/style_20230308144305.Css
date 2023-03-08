@@ -3,6 +3,7 @@ html, body {
 }
 
 body {
+    max-width: min-content;
     padding: 8%;
     margin: 0 auto !important;
     background-color: black;

@@ -1,13 +1,7 @@
-html, body {
-    height: 100%;
-}
-
-body {
-    padding: 8%;
-    margin: 0 auto !important;
+body{
     background-color: black;
     color: white;
-    text-align: center;
+    text-align: justify;
 }
 
 .biografia{

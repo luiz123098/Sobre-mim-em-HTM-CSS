@@ -3,6 +3,7 @@ html, body {
 }
 
 body {
+    max-width: 4000px;
     padding: 8%;
     margin: 0 auto !important;
     background-color: black;
